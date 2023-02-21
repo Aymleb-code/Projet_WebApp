@@ -6,6 +6,7 @@
 “Fonction” : contient le nom et la description de chaque fonction contenue dans la classe. Définition de chaque Input et Output ainsi que chaque variable utilisée. 
 
 ===============================================================================
+
 Classe Joueur 
 
 Instances :  
@@ -25,6 +26,7 @@ Fonctions :
 
  
 ===============================================================================
+
 Classe Défi 
 
 Instances :  
@@ -41,7 +43,8 @@ Instances :
 
  
 
-Fonctions :   
+Fonctions :
+
 ===============================================================================
  
 
